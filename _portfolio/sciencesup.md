@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Github
-img: "assets/img/portfolio/github.png"
-date: 20-10-2017
-tags: [Lorem]
+title: Science's Up
+img: "assets/img/portfolio/circus.png"
+tags: [game]
 ---
 
 ![image]({{ page.img | relative_url }})

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lorem Ipsum
-feature-img: "assets/img/portfolio/submarine.png"
-img: "assets/img/portfolio/submarine.png"
-date: 2017-09-03
+title: Mendelius
+feature-img: "assets/img/portfolio/cake.png"
+img: "assets/img/portfolio/cake.png"
+tags: [game]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 

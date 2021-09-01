@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tower of Hanoi
-img: "assets/img/portfolio/toh.png"
-date: September 2014
+title: Territory
+img: "assets/img/portfolio/github.png"
+tags: [game]
 ---
 
 ![image]({{ page.img | relative_url }})
