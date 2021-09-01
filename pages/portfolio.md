@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
+title : Juegos 
+permalink: /juegos/
+subtitle: "Our projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
