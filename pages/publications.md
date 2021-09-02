@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Publications
+title: Publicaciones
 permalink: /publications/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
+
+## Publicaciones
 
 * García Jartín, L & Rodríguez Gacio, MC (2021). La herencia genética en un juego de cartas. Revista Alambique, Didáctica de las Ciencias Experimentales, julio, 105:56-63.
 
