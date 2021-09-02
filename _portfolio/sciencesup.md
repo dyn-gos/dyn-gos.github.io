@@ -24,6 +24,7 @@ Vídeo Tutorial: https://youtu.be/M9P6CE5IWHs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M9P6CE5IWHs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Más información en: https://sciencesup.eu.pythonanywhere.com/sciencesup/
+
 Equipo: Diego Nieto Lugilde, Carlos J. Torrecilla Salinas, Pedro Álvarez Lloret, Marta Nieto Lugilde, Cristina Aznarte Mellado, Rafael Navajas Pérez. 
 
 
