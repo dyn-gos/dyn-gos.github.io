@@ -9,7 +9,7 @@ hide: true                           # Prevent the page title to appear in the n
 
 Los cuatro pilares básicos sobre los que se fundamenta DyNGoS son: 
 
-> ![Triangle](assets/img/triangle2.png){:float="left"} 
+> ![Triangle](assets/img/triangle2.png){:style="float: right"} 
 >
 > # DIVULGACIÓN
 > Promover la cultura científica en la población creando experiencias de aprendizaje significativas. Incrementar el grado de implicación del estudiantado en distintos niveles educativos. 
