@@ -10,26 +10,26 @@ hide: true                           # Prevent the page title to appear in the n
 
 Los cuatro pilares básicos sobre los que se fundamenta DyNGoS son: 
 
-<div style="text-align: left">
 ![Triangle](assets/img/triangle2.png){:style="float: left"} 
+<div style="text-align: left">
 ## DIVULGACIÓN
 Promover la cultura científica en la población creando experiencias de aprendizaje significativas. Incrementar el grado de implicación del estudiantado en distintos niveles educativos. 
 </div>
 
-<div style="text-align: right">
 ![Triangle](assets/img/triangle2.png){:style="float: right"}
+<div style="text-align: right">
 ## GAMIFICACIÓN 
 Usar estrategias de ludificación en relación a la enseñanza de las principales áreas científicas: Biología, Geología, Física, Química y Matemáticas.
 </div>
 
-<div style="text-align: left">
 ![Triangle](assets/img/triangle2.png){:style="float: left"}
+<div style="text-align: left">
 ## CREACIÓN
 Diseñar serious games y estrategias de gamificación relacionadas con las ciencias. Compartir y poner a disposición de la ciudadanía y la comunidad educativa.
 </div>
 
-<div style="text-align: right">
 ![Triangle](assets/img/triangle2.png){:style="float: right"} 
+<div style="text-align: right">
 ## VALIDACIÓN 
 Testar el potencial educativo de los juegos generados y su usabilidad como herramientas innovativas de enseñanza de las ciencias.
 </div>
