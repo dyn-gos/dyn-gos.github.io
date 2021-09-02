@@ -1,19 +1,27 @@
 ---
 layout: post
 title: Science's Up
+feature-img: "assets/img/portfolio/circus.png"
 img: "assets/img/portfolio/circus.png"
-tags: [game]
+tags: [Game]
 ---
 
 ![image]({{ page.img | relative_url }})
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+[FOTO ILUSTRATIVA DEL JUEGO]
+
+Tipo: Juego de naipes (juego de charadas).
+Fecha de Creación: 2020
+Componentes: baraja de naipes Print&Play, aplicación web. 
+Descripción: Science's Up! es un juego de naipes inspirado en el popular juego de socialización Time's Up! Los integrantes de cada equipo compiten por acertar el mayor número posible de personajes relevantes de la historia de la ciencia. Por turnos, un integrante de cada equipo debe aportar las pistas necesarias para que sus compañeros acierten. En la primera ronda se puede emplear cualquier palabra a excepción del nombre del personaje en cuestión y derivados; en la segunda ronda sólo se permite usar una palabra por personaje; en la tercera ronda la descripción se realiza mediante mímica o sonidos no verbales.
+
+
+Número de jugadores: Mínimo dos equipos de dos jugadores cada uno, hasta un máximo de cuatro equipos de cuatro jugadores cada uno. 
+Edad recomendada: a partir de 14 años. Recomendado para reforzar conocimientos sobre la historia de la ciencia en distintos cursos de la ESO y Bachillerato, en función del nivel de dificultad (3). 
+
+Vídeo Tutorial: https://youtu.be/M9P6CE5IWHs
+
+Más información en: https://sciencesup.eu.pythonanywhere.com/sciencesup/
+Equipo: Diego Nieto Lugilde, Carlos J. Torrecilla Salinas, Pedro Álvarez Lloret, Marta Nieto Lugilde, Cristina Aznarte Mellado, Rafael Navajas Pérez. 
+
 
