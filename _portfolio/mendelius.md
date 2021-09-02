@@ -28,5 +28,6 @@ Vídeo tutorial: https://youtu.be/9xSYvj8KTq4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9xSYvj8KTq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Más información en: [www.mendelius.com](www.mendelius.com)
+
 Equipo: Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador). 
 
