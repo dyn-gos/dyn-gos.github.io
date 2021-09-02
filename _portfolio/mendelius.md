@@ -6,7 +6,7 @@ img: "assets/img/portfolio/cake.png"
 tags: [Game]
 ---
 
-![image]({{ page.img | relative_url }})
+![Cake]({{ page.img | relative_url }})
 
 [FOTO ILUSTRATIVA DEL JUEGO]
 
