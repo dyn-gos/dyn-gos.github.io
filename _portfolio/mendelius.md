@@ -3,8 +3,10 @@ layout: post
 title: Mendelius
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
-tags: [game]
+tags: [Game]
 ---
+
+![image]({{ page.img | relative_url }})
 
 [FOTO ILUSTRATIVA DEL JUEGO]
 
@@ -23,7 +25,7 @@ Versiones: traducciones al inglés, francés y alemán.
 
 Vídeo tutorial: https://youtu.be/9xSYvj8KTq4
 
-<iframe width="560" height="315" src="https://youtu.be/embed/9xSYvj8KTq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9xSYvj8KTq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Más información en: [www.mendelius.com](www.mendelius.com)
 Equipo: Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador). 
