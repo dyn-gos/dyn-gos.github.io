@@ -21,7 +21,6 @@ Edad recomendada:
 Vídeo Tutorial: 
 
 
-Más información en: 
 Equipo: Diego Nieto Lugilde, Carlos J. Torrecilla Salinas. 
 
 
