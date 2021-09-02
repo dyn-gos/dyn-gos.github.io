@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Juegos 
-permalink: /juegos/
-subtitle: "Our projects" 
+title : Proyectos 
+permalink: /projects/
+subtitle: "Nuestras propuestas de gamificación..." 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
