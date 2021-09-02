@@ -3,6 +3,9 @@ rss: true         # Icons on the footer
 feed:
   path: feed.xml  # RSS feed path
 
+email_address: type@example.com
+youtube: UCqECaJ8Gagnn7YCbPEzWH6g  # Youtube token of your channel in the url 
+
 # Share button options
 share:
   email: true
@@ -14,3 +17,5 @@ share:
   tumblr: true
   twitter: true
   wordpress:
+
+
