@@ -6,15 +6,25 @@ img: "assets/img/portfolio/cake.png"
 tags: [game]
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+[FOTO ILUSTRATIVA DEL JUEGO]
 
-Use this area of the page to describe your project. 
-The icon above is part of a free icon set by Flat Icons. 
+Tipo: Juego de naipes (combinaciones de cartas).
+
+Fecha de creación: 2013
+
+Componentes: baraja de naipes edición de lujo, baraja de naipes Print&Play, App para dispositivos Android. 
+
+Descripción: Mendelius es un juego de naipes cuyas reglas se basan en las de otros juegos como el Chinchón o el Continental y cuya estética está inspirada en el juego de naipes de las familias. El objetivo del juego es realizar, a lo largo de las siete rondas de que se compone, diferentes combinaciones de cartas antes que el resto de jugadores. Las combinaciones de cartas que hay que realizar son cruzamientos entre individuos de distintas familias con diferente color de piel y cuya descendencia ha de respetar las leyes de la herencia, esto es, las Leyes de Mendel.
+
+Número de jugadores: mínimo dos jugadores, hasta un máximo de dos equipos de varios jugadores por baraja.  
+Edad recomendada: a partir de 14 años. Recomendado para reforzar conceptos de Genética Mendeliana en 4º de la ESO y 2º de Bachillerato. 
+
+Versiones: traducciones al inglés, francés y alemán. 
+
+Vídeo tutorial: https://youtu.be/9xSYvj8KTq4
+
+<iframe width="560" height="315" src="https://youtu.be/embed/9xSYvj8KTq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Más información en: [www.mendelius.com](www.mendelius.com)
+Equipo: Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador). 
+
