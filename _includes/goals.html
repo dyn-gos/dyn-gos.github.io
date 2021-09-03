@@ -1,5 +1,5 @@
 {% for goal in site.goals %}
-  <img src= {{ goal.img }} alt= {{ goal.goal }} style="float:right">
+  <img src="{{ goal.img }}" alt="{{ goal.goal }}" style="float:right">
   <h2>{{ goal.goal }}</h2>
   <p>{{ goal.description | markdownify }}</p>
 {% endfor %}
