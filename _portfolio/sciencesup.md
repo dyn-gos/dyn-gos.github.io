@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Science's Up
-feature-img: "assets/img/portfolio/circus.png"
-img: "assets/img/portfolio/circus.png"
+feature-img: "assets/img/portfolio/sciencesup.png"
+img: "assets/img/portfolio/sciencesup.png"
 tags: [Game]
 ---
 
-![image]({{ page.img | relative_url }})
+<!-- ![image]({{ page.img | relative_url }}) -->
 
 [FOTO ILUSTRATIVA DEL JUEGO]
 
