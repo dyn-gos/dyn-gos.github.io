@@ -1,16 +1,16 @@
 
 <p>Los cuatro pilares básicos sobre los que se fundamenta DyNGoS son: </p>
 
-{% comment %} {% for goal in site.goals %}
+{% for goal in site.goals %}
   <img src="{{ goal.img }}" alt="{{ goal.goal }}" style="float:left">
   <h2>{{ goal.goal }}</h2>
   <p>{{ goal.description | markdownify }}</p>
-{% endfor %} {% endcomment %}
+{% endfor %}
 
- <div class="container">
+ {% comment %} <div class="container">
   <img src="{{ goal.img }}" alt="{{ goal.goal }}" style="width:100%;">
   <div class="text-block">
     <h4>{{ goal.goal }}</h4>
     <p>{{ goal.description }}</p>
   </div>
-</div> 
+</div>  {% endcomment %}
