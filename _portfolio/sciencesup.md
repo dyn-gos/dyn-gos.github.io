@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Science's Up
+title: Science's Up!
 feature-img: "assets/img/portfolio/sciencesup.png"
 img: "assets/img/portfolio/sciencesup.png"
 tags: [Game]
