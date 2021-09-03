@@ -1,10 +1,13 @@
 /* TYPE_ON_STRAP Main style sheet */
 
+
 /* Variables */
+
 // All the options to customize your theme in one file
 @import 'base/variables';
 
 /* External */
+
 // CSS from external sources
 @import 'external/reset';
 @import 'external/font-awesome';
@@ -13,12 +16,14 @@
 @import 'external/source-sans-pro';
 
 /* Base */
+
 // For general CSS in the theme
 @import 'base/global';
 @import 'base/highlight';
 @import 'base/utility';
 
 /* Includes */
+
 // Linked with the html in the _includes folder
 @import 'includes/post_nav';
 @import 'includes/footer';
@@ -29,6 +34,7 @@
 @import 'includes/portfolio';
 
 /* Posts */
+
 // Linked with the html in the _layouts folder
 @import 'layouts/posts';
 @import 'layouts/blog';
@@ -52,3 +58,5 @@ Then create your _custom.scss right next to type-on-strap.scss and add in it all
 of the unique scss that your blog needs.
 
 */
+
+@import 'custom';
