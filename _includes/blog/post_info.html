@@ -1,5 +1,5 @@
 {% assign author = site.data.authors[include.author] %}
-{% assign date = include.date | default: "today" | date: "%B %-d, %Y" %}
+{% comment %} {% assign date = include.date | default: "today" | date: "%B %-d, %Y" %} {% endcomment %}
 
 <div class="post-info">
   {%- if author.url -%}<a href="{{ author.url | relative_url }}" target="_blank">{%- endif -%}
@@ -8,8 +8,8 @@
     {% endif %}
     <p class="meta">
       {% if author.name %}{{ author.name }} - {% endif %}
-      {% assign x = date | date: "%m" | minus: 1 %}
-      {{ site.data.language.str_months[x] | default: date | date: "%B" }} {{ date | date: "%d, %Y" }}
+      {% comment %} {% assign x = date | date: "%m" | minus: 1 %}
+      {{ site.data.language.str_months[x] | default: date | date: "%B" }} {{ date | date: "%d, %Y" }} {% endcomment %}
     </p>
   {%- if author.url -%}</a>{%- endif -%}
 </div>
