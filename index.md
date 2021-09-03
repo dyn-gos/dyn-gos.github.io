@@ -7,11 +7,7 @@ permalink: /index.html               # Set a permalink your your page
 hide: true                           # Prevent the page title to appear in the navbar
 ---
 
-
-{% include aligner.html images="mermaid-example.png" column=1 %}
-
 Los cuatro pilares básicos sobre los que se fundamenta DyNGoS son: 
-
 
 ![Triangle](assets/img/triangle2.png){:style="float: left"} 
 ## DIVULGACIÓN
