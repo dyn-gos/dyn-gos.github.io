@@ -8,6 +8,8 @@ hide: true                           # Prevent the page title to appear in the n
 ---
 
 
+{% include aligner.html images="mermaid-example.png" column=1 %}
+
 Los cuatro pilares básicos sobre los que se fundamenta DyNGoS son: 
 
 
