@@ -3,6 +3,7 @@ layout: post
 title: Mendelius
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
+link: 
 tags: [Game]
 ---
 
