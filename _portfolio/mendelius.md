@@ -7,28 +7,47 @@ link:
 tags: [Game]
 ---
 
-![Cake]({{ page.img | relative_url }})
+<!-- ![Cake]({{ page.img | relative_url }})
 
-[FOTO ILUSTRATIVA DEL JUEGO]
+[FOTO ILUSTRATIVA DEL JUEGO] -->
 
-Tipo: Juego de naipes (combinaciones de cartas).
+## Tipo
 
-Fecha de creación: 2013
+Juego de naipes (combinaciones de cartas).
 
-Componentes: baraja de naipes edición de lujo, baraja de naipes Print&Play, App para dispositivos Android. 
+## Descripción
 
-Descripción: Mendelius es un juego de naipes cuyas reglas se basan en las de otros juegos como el Chinchón o el Continental y cuya estética está inspirada en el juego de naipes de las familias. El objetivo del juego es realizar, a lo largo de las siete rondas de que se compone, diferentes combinaciones de cartas antes que el resto de jugadores. Las combinaciones de cartas que hay que realizar son cruzamientos entre individuos de distintas familias con diferente color de piel y cuya descendencia ha de respetar las leyes de la herencia, esto es, las Leyes de Mendel.
+Mendelius es un juego de naipes cuyas reglas se basan en las de otros juegos como el Chinchón o el Continental y cuya estética está inspirada en el juego de naipes de las familias. El objetivo del juego es realizar, a lo largo de las siete rondas de que se compone, diferentes combinaciones de cartas antes que el resto de jugadores. Las combinaciones de cartas que hay que realizar son cruzamientos entre individuos de distintas familias con diferente color de piel y cuya descendencia ha de respetar las leyes de la herencia, esto es, las Leyes de Mendel.
 
-Número de jugadores: mínimo dos jugadores, hasta un máximo de dos equipos de varios jugadores por baraja.  
-Edad recomendada: a partir de 14 años. Recomendado para reforzar conceptos de Genética Mendeliana en 4º de la ESO y 2º de Bachillerato. 
+## Número de jugadores
 
-Versiones: traducciones al inglés, francés y alemán. 
+Mínimo dos jugadores, hasta un máximo de dos equipos de varios jugadores por baraja.  
 
-Vídeo tutorial: https://youtu.be/9xSYvj8KTq4
+## Edad recomendada
+
+A partir de 14 años. Recomendado para reforzar conceptos de Genética Mendeliana en 4º de la ESO y 2º de Bachillerato. 
+
+## Componentes
+
+Baraja de naipes edición de lujo, baraja de naipes Print&Play, App para dispositivos Android. 
+
+## Vídeo Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9xSYvj8KTq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Más información en: [www.mendelius.com](www.mendelius.com)
+## Equipo
 
-Equipo: Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador). 
+Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador). 
+
+## Fecha de creación
+
+2013
+
+## Versiones
+
+Español, inglés, francés y alemán. 
+
+## Más información en...
+
+[www.mendelius.com](www.mendelius.com)
 
