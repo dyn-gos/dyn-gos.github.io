@@ -6,22 +6,37 @@ img: "assets/img/portfolio/territory.png"
 tags: [Game]
 ---
 
-<!-- ![image]({{ page.img | relative_url }})
+<!-- ![image]({{ page.img | relative_url }}) -->
 
-[FOTO ILUSTRATIVA DEL JUEGO] -->
+## Tipo
+Juego de mesa (tablero).
 
-Tipo: Juego de mesa (tablero).
-Fecha de Creación: 
-Componentes: tablero + componentes, controlador? 
-Descripción: 
-Número de jugadores: 
-Edad recomendada:
+## Descripción
 
+Territory es un juego de tablero en el que los jugadores son gestores de un territorio en el que deberan desarrollar una sociedad. 
 
-Vídeo Tutorial: 
+## Número de jugadores
 
+3-6 jugadores.
 
-Equipo: Diego Nieto Lugilde, Carlos J. Torrecilla Salinas. 
+## Edad recomendada
+
+> 16 años.
+
+## Componentes
+
+Tablero, tarjetas de objetivos, fichas y contadores. Opcionalmente, hemos desarrollado un dispositivo RFID para escanear fichas y actualizar contadores en un dispositivo portatil (móvil o tablet). 
+
+## Vídeo Tutorial
+
+## Equipo
+
+Diego Nieto Lugilde y Carlos Torrecilla Salinas.
+
+## Fecha de Creación
+
+2019
+
 
 
 
