@@ -21,7 +21,7 @@ Territory es un juego de tablero en el que los jugadores son gestores de un terr
 
 ## Edad recomendada
 
-> 16 años.
+16 años.
 
 ## Componentes
 
