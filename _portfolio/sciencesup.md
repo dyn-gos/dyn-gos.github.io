@@ -12,6 +12,9 @@ tags: [Game]
 <!-- [FOTO ILUSTRATIVA DEL JUEGO] -->
 # Science's Up!
 
+## Página web del juego
+[https://sciencesup.eu.pythonanywhere.com/sciencesup/](https://sciencesup.eu.pythonanywhere.com/sciencesup/)
+
 ## Tipo
 Juego de naipes (juego de charadas).
 
@@ -38,7 +41,4 @@ Diego Nieto Lugilde, Carlos J. Torrecilla Salinas, Pedro Álvarez Lloret, Marta 
 
 ## Fecha de Creación
 2020
-
-## Más información en..
-[https://sciencesup.eu.pythonanywhere.com/sciencesup/](https://sciencesup.eu.pythonanywhere.com/sciencesup/)
 
