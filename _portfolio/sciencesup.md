@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Science's Up!
+title: ""
 feature-img: "assets/img/portfolio/sciencesup.png"
 img: "assets/img/portfolio/sciencesup.png"
 link: https://sciencesup.eu.pythonanywhere.com/sciencesup/

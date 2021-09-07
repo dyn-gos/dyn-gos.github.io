@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Territory
+title: ""
 feature-img: "assets/img/portfolio/territory.png"
 img: "assets/img/portfolio/territory.png"
 tags: [Game]
