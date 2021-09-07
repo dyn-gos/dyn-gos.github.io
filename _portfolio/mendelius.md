@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mendelius
+title: ""
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
 link: 
