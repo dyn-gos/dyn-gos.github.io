@@ -2,7 +2,7 @@
 layout: post
 title: ""
 feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+img: "assets/img/portfolio/Mendelius.png"
 link: 
 tags: [Game]
 ---
