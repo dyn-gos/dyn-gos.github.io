@@ -12,11 +12,11 @@ El equipo de DyNGoS está formado por:
 
 - **Pedro Álvarez-Lloret**, *Departamento de Geología, Universidad de Oviedo*, Oviedo, España.
 
-- **Cristina Aznarte-Mellado**, *Departamento de Física y Química, IES Aricel*, Albolote, Granada, España.
+- **Cristina Aznarte-Mellado**, *Departamento de Física y Química, IES Aricel*, Albolote, Granada, España. [Web](http://cristinaaznarte.com/){:target="_blank"}
 
-- **Rafael Navajas-Pérez**, *Departamento de Genética, Universidad de Granada*, Granada, España. [Web](http://www.rafaelnavajas.eu/)
+- **Rafael Navajas-Pérez**, *Departamento de Genética, Universidad de Granada*, Granada, España. [Web](http://www.rafaelnavajas.eu/){:target="_blank"}
 
-- **Diego Nieto-Lugilde**, *Departamento de Botánica, Ecología y Fisiología Vegetal, Universidad de Córdoba*, Córdoba, España.
+- **Diego Nieto-Lugilde**, *Departamento de Botánica, Ecología y Fisiología Vegetal, Universidad de Córdoba*, Córdoba, España. [Web](https://dnietolugilde.com/){:target="_blank"}
 
 - **Marta Nieto-Lugilde**, *Department of Biology, Duke University*, Durham, NC, Estados Unidos.
 
