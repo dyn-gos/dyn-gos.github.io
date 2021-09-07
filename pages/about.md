@@ -10,15 +10,15 @@ Esta red surge de la inquietud por crear recursos docentes de calidad de un grup
 
 El equipo de DyNGoS está formado por:
 
-- Pedro Álvarez-Lloret, Departamento de Geología, Universidad de Oviedo, Oviedo, España.
+- **Pedro Álvarez-Lloret**, *Departamento de Geología, Universidad de Oviedo*, Oviedo, España.
 
-- Cristina Aznarte-Mellado, Departamento de Física y Química, IES Aricel, Albolote, Granada, España.
+- **Cristina Aznarte-Mellado**, *Departamento de Física y Química, IES Aricel*, Albolote, Granada, España.
 
-- Rafael Navajas-Pérez, Departamento de Genética, Universidad de Granada, Granada, España.
+- **Rafael Navajas-Pérez**, *Departamento de Genética, Universidad de Granada*, Granada, España.
 
-- Diego Nieto-Lugilde, Departamento de Botánica, Ecología y Fisiología Vegetal, Universidad de Córdoba, Córdoba, España.
+- **Diego Nieto-Lugilde**, *Departamento de Botánica, Ecología y Fisiología Vegetal, Universidad de Córdoba*, Córdoba, España.
 
-- Marta Nieto-Lugilde, Department of Biology, Duke University, Durham, NC, Estados Unidos.
+- **Marta Nieto-Lugilde**, *Department of Biology, Duke University*, Durham, NC, Estados Unidos.
 
-- Carlos J. Torrecilla-Salinas, Departamento de Lenguajes y Sistemas, Universidad de Sevilla, Sevilla, España y WISE Lab, Vrije Universitet Brussel, Bruselas, Bélgica.
+- **Carlos J. Torrecilla-Salinas**, *Departamento de Lenguajes y Sistemas, Universidad de Sevilla*, Sevilla, España y *WISE Lab, Vrije Universitet Brussel*, Bruselas, Bélgica.
 
