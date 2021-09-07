@@ -14,7 +14,7 @@ El equipo de DyNGoS está formado por:
 
 - **Cristina Aznarte-Mellado**, *Departamento de Física y Química, IES Aricel*, Albolote, Granada, España.
 
-- **Rafael Navajas-Pérez**, *Departamento de Genética, Universidad de Granada*, Granada, España.
+- **Rafael Navajas-Pérez**, *Departamento de Genética, Universidad de Granada*, Granada, España. [Web](http://www.rafaelnavajas.eu/)
 
 - **Diego Nieto-Lugilde**, *Departamento de Botánica, Ecología y Fisiología Vegetal, Universidad de Córdoba*, Córdoba, España.
 
