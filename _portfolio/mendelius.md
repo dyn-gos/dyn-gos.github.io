@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: Mendelius
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
 link: 
@@ -10,6 +10,8 @@ tags: [Game]
 <!-- ![Cake]({{ page.img | relative_url }})
 
 [FOTO ILUSTRATIVA DEL JUEGO] -->
+
+# Mendelius
 
 ## Tipo
 

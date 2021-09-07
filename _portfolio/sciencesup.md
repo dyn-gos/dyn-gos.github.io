@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: Science's Up!
 feature-img: "assets/img/portfolio/sciencesup.png"
 img: "assets/img/portfolio/sciencesup.png"
 link: https://sciencesup.eu.pythonanywhere.com/sciencesup/
@@ -10,6 +10,7 @@ tags: [Game]
 <!-- ![image]({{ page.img | relative_url }}) -->
 
 <!-- [FOTO ILUSTRATIVA DEL JUEGO] -->
+# Science's Up!
 
 ## Tipo
 Juego de naipes (juego de charadas).

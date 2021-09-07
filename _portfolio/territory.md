@@ -1,12 +1,14 @@
 ---
 layout: post
-title: ""
+title: Territory
 feature-img: "assets/img/portfolio/territory.png"
 img: "assets/img/portfolio/territory.png"
 tags: [Game]
 ---
 
 <!-- ![image]({{ page.img | relative_url }}) -->
+
+# Territory
 
 ## Tipo
 Juego de mesa (tablero).
