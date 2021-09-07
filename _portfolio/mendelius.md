@@ -15,7 +15,7 @@ tags: [Game]
 
 ## Página web del juego
 
-[www.mendelius.com](http://www.mendelius.com)
+[www.mendelius.com](http://www.mendelius.com){:target="_blank"}
 
 ## Tipo
 
