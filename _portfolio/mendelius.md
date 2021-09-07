@@ -13,6 +13,10 @@ tags: [Game]
 
 # Mendelius
 
+## Página web del juego
+
+[www.mendelius.com](www.mendelius.com)
+
 ## Tipo
 
 Juego de naipes (combinaciones de cartas).
@@ -48,8 +52,4 @@ Rafael Navajas Pérez, Cristina Aznarte Mellado, Marco Bellido (programador).
 ## Versiones
 
 Español, inglés, francés y alemán. 
-
-## Más información en...
-
-[www.mendelius.com](www.mendelius.com)
 
