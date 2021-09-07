@@ -13,7 +13,7 @@ tags: [Game]
 # Science's Up!
 
 ## Página web del juego
-[https://sciencesup.eu.pythonanywhere.com/sciencesup/](https://sciencesup.eu.pythonanywhere.com/sciencesup/)
+[https://sciencesup.eu.pythonanywhere.com/sciencesup/](https://sciencesup.eu.pythonanywhere.com/sciencesup/){:target="_blank"}
 
 ## Tipo
 Juego de naipes (juego de charadas).
