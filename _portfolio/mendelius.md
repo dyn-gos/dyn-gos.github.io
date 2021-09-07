@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ""
-feature-img: "assets/img/portfolio/Mendelius.png"
-img: "assets/img/portfolio/Mendelius.png"
+feature-img: "assets/img/portfolio/mendelius-green.png"
+img: "assets/img/portfolio/mendelius-green.png"
 link: 
 tags: [Game]
 ---
