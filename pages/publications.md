@@ -8,6 +8,8 @@ tags: [Page]
 
 ## Publicaciones
 
+### Artículos de investigación 
+
 * García Jartín, L & Rodríguez Gacio, MC (2021). La herencia genética en un juego de cartas. Revista Alambique, Didáctica de las Ciencias Experimentales, julio, 105:56-63.
 
 * Navajas-Pérez, R & Aznarte-Mellado, C (2019). Mendelius: el juego de naipes para aprender las leyes de la herencia. Revista Alambique, Didáctica de las Ciencias Experimentales, abril, 96:80-81.
@@ -17,6 +19,9 @@ tags: [Page]
 * Navajas-Pérez, R & Aznarte-Mellado, C (2014). Mendelius, el acento granadino a las leyes de la herencia. Revista Calle Elvira, Otoño, pp. 40-43, Granada.
 
 
+### Comunicaciones a congresos:
 
-
+* Álvarez Lloret, P, Aznarte Mellado, C, Nieto Lugilde, D, Nieto Lugilde, M Torrecilla Salinas, CJ & Navajas-Pérez, R. (2019). DyNGoS. Dynamic Network for Gamification of Science”.Education Innovation Working Group Seminar on Students Engagement (Students Engagement in Coimbra Group Universities). 29 marzo, Granada, España (**Comunicación Oral**).
+ 
+* Aznarte Mellado, C & Navajas-Pérez, R. (2014). Mendelius: el juego de cartas para enseñar Genética Mendeliana. III Jornadas de Buenas Prácticas Educativas del CEP de Granada. 4-5 junio, Granada, España (**Póster**).
 
