@@ -4,7 +4,6 @@ title: ""
 feature-img: "assets/img/portfolio/mendelius_green.png"
 img: "assets/img/portfolio/mendelius_green.png"
 link: 
-tags: [Game]
 ---
 
 <!-- ![Cake]({{ page.img | relative_url }})

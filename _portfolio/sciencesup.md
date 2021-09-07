@@ -4,7 +4,6 @@ title: ""
 feature-img: "assets/img/portfolio/sciencesup.png"
 img: "assets/img/portfolio/sciencesup.png"
 link: https://sciencesup.eu.pythonanywhere.com/sciencesup/
-tags: [Game]
 ---
 
 <!-- ![image]({{ page.img | relative_url }}) -->

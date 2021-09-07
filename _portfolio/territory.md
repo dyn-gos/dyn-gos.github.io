@@ -3,7 +3,6 @@ layout: post
 title: ""
 feature-img: "assets/img/portfolio/territory.png"
 img: "assets/img/portfolio/territory.png"
-tags: [Game]
 ---
 
 <!-- ![image]({{ page.img | relative_url }}) -->
