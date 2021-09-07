@@ -2,7 +2,7 @@
 layout: page
 title : Proyectos 
 permalink: /projects/
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/Unsplash/joel-filipe-unsplash.jpg"
 tags: [Page]
 ---
 
