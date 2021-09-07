@@ -8,7 +8,7 @@ tags: [Page]
 
 ## Publicaciones
 
-### Artículos de investigación 
+### Artículos de investigación: 
 
 * García Jartín, L & Rodríguez Gacio, MC (2021). *La herencia genética en un juego de cartas*. [Revista Alambique, Didáctica de las Ciencias Experimentales, julio, 105:56-63.](https://www.grao.com/es/producto/la-herencia-genetica-en-un-juego-de-cartas-al10596979){:target="_blank"}
 
