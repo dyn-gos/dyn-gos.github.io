@@ -1,7 +1,7 @@
 --- 
 layout: page
-title : Proyectos 
-permalink: /projects/
+title : Juegos 
+permalink: /juegos/
 feature-img: "assets/img/Unsplash/joel-filipe-unsplash.jpg"
 tags: [Page]
 ---
