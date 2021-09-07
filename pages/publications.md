@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: Publicaciones
 permalink: /publications/
 feature-img: "assets/img/Unsplash/scott-graham-unsplash.jpg"
