@@ -2,7 +2,7 @@
 layout: page
 title: Publicaciones
 permalink: /publications/
-feature-img: "assets/img/Unsplash/scott-graham-unsplash.jpg"
+feature-img: "assets/img/portfolio/sciencesup.png"
 ---
 
 ## Publicaciones
