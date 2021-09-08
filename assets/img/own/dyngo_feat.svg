@@ -3,11 +3,11 @@
 
 <svg
    width="2200"
-   height="800"
-   viewBox="0 0 582.08335 211.66666"
+   height="1500"
+   viewBox="0 0 582.08335 396.87499"
    version="1.1"
    id="svg5"
-   sodipodi:docname="dyngo.svg"
+   sodipodi:docname="dyngo_feat.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    inkscape:export-filename="C:\Users\lafra\OneDrive - Universidad de Córdoba\github-website\dyn-gos.github.io\assets\img\own\dyngo_feat.png"
    inkscape:export-xdpi="96"
@@ -27,15 +27,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.16378133"
-     inkscape:cx="1166.1891"
-     inkscape:cy="-259.49234"
+     inkscape:cx="576.98884"
+     inkscape:cy="228.96383"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     units="px" />
+     units="px"
+     fit-margin-bottom="6.7"
+     height="1500px" />
   <defs
      id="defs2" />
   <g
@@ -44,7 +46,7 @@
      id="layer1">
     <g
        id="g1877627"
-       transform="matrix(1.9358849,0,0,1.9358849,102.10721,-205.2712)">
+       transform="matrix(1.9358849,0,0,1.9358849,-28.067865,-208.44622)">
       <path
          style="fill:#cd7f43;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 150.21346,59.685575 7.99615,1.427885 -2.85577,3.712501 z"
