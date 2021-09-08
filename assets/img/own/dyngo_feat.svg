@@ -3,8 +3,8 @@
 
 <svg
    width="1280"
-   height="267"
-   viewBox="0 0 338.66668 70.643748"
+   height="400"
+   viewBox="0 0 338.66668 105.83333"
    version="1.1"
    id="svg5"
    sodipodi:docname="dyngo_feat.svg"
@@ -46,12 +46,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#303f50;fill-opacity:1;stroke:#222e3b;stroke-width:0.0055688;stroke-miterlimit:1.414"
+       style="fill:#303f50;fill-opacity:1;stroke:#222e3b;stroke-width:0.00693207;stroke-miterlimit:1.414"
        id="rect7680"
-       width="338.68433"
-       height="74.828781"
-       x="0.93066025"
-       y="-4.7869477" />
+       width="338.68295"
+       height="115.95049"
+       x="0.93134189"
+       y="-4.7862663" />
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#222e3b;stroke-width:0.0185208;stroke-miterlimit:1.414"
        id="rect2231"
