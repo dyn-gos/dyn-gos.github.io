@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2200"
-   height="1500"
-   viewBox="0 0 582.08335 396.87499"
+   width="1280"
+   height="267"
+   viewBox="0 0 338.66668 70.643748"
    version="1.1"
    id="svg5"
    sodipodi:docname="dyngo_feat.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    inkscape:export-filename="C:\Users\lafra\OneDrive - Universidad de Córdoba\github-website\dyn-gos.github.io\assets\img\own\dyngo_feat.png"
-   inkscape:export-xdpi="52.360001"
-   inkscape:export-ydpi="52.360001"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.081890665"
-     inkscape:cx="348.02502"
-     inkscape:cy="1422.6286"
+     inkscape:zoom="0.23162178"
+     inkscape:cx="770.65292"
+     inkscape:cy="977.88732"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -37,7 +37,8 @@
      inkscape:current-layer="layer1"
      units="px"
      fit-margin-bottom="6.7"
-     height="1500px" />
+     height="1500px"
+     width="1280px" />
   <defs
      id="defs2" />
   <g
@@ -45,12 +46,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#303f50;fill-opacity:1;stroke:#222e3b;stroke-width:0.0185208;stroke-miterlimit:1.414"
+       style="fill:#303f50;fill-opacity:1;stroke:#222e3b;stroke-width:0.0055688;stroke-miterlimit:1.414"
        id="rect7680"
-       width="621.95477"
-       height="450.71527"
-       x="3.230957"
-       y="-9.6928015" />
+       width="338.68433"
+       height="74.828781"
+       x="0.93066025"
+       y="-4.7869477" />
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#222e3b;stroke-width:0.0185208;stroke-miterlimit:1.414"
        id="rect2231"
@@ -60,7 +61,7 @@
        y="-9.6928015" />
     <g
        id="g14631"
-       transform="matrix(0.71032141,0,0,0.71032141,248.08435,146.64432)">
+       transform="matrix(0.34828975,0,0,0.34828975,195.66049,-22.735297)">
       <path
          style="fill:#cd7f43;fill-opacity:1;stroke:none;stroke-width:0.870409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 302.8018,-214.92701 26.30523,4.69737 -9.39473,12.21315 z"
