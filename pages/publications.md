@@ -18,13 +18,14 @@ feature-img: "assets/img/portfolio/sciencesup.png"
 * Navajas-Pérez, R & Aznarte-Mellado, C (2014). *Mendelius, el acento granadino a las leyes de la herencia*. Revista Calle Elvira, Otoño, pp. 40-43, Granada. [PDF](http://wpd.ugr.es/~rnavajas/wp-content/uploads/2020/12/calleelvira.pdf){:target="_blank"}
 
 
-### Comunicaciones a congresos y charlas de divulgación:
-
-* Aznarte-Mellado, C. (2021). *Jugadores de hoy, científicos del mañana*. Desgranando Ciencia 7. 18 septiembre, Granada, España [(*Comunicación Oral*).](https://youtu.be/D9mZnStHLJI){:target="_blank"}
-
-* Navajas-Pérez, R, Nieto-Lugilde, D, Torrecilla-Salinas, CJ. (2021). *Del aula a la mesa de camilla: desarrollo de juegos científicos”. Crear un juego requiere de un proceso arduo y complejo. ¿Te animas a desarrollar uno*. I Feria del Juego Científico, Desgranando Ciencia 7. 13 septiembre, Granada, España
+### Comunicaciones a congresos:
 
 * Álvarez-Lloret, P, Aznarte-Mellado, C, Nieto-Lugilde, D, Nieto-Lugilde, M, Torrecilla-Salinas, CJ & Navajas-Pérez, R. (2019). *DyNGoS. Dynamic Network for Gamification of Science*. Education Innovation Working Group Seminar on Students Engagement (Students Engagement in Coimbra Group Universities). 29 marzo, Granada, España [(*Comunicación Oral*).](http://wpd.ugr.es/~rnavajas/wp-content/uploads/2019/03/dyngos_seminar.pdf){:target="_blank"}
  
 * Aznarte-Mellado, C & Navajas-Pérez, R. (2014). *Mendelius: el juego de cartas para enseñar Genética Mendeliana*. III Jornadas de Buenas Prácticas Educativas del CEP de Granada. 4-5 junio, Granada, España [(*Póster*).](http://wpd.ugr.es/~rnavajas/wp-content/uploads/2017/03/Aznarte_teach_2014.pdf){:target="_blank"}
 
+### Charlas de divulgación:
+
+* Aznarte-Mellado, C. (2021). *Jugadores de hoy, científicos del mañana*. Desgranando Ciencia 7. 18 septiembre, Granada, España [(*Comunicación Oral*).](https://youtu.be/D9mZnStHLJI){:target="_blank"}
+
+* Navajas-Pérez, R, Nieto-Lugilde, D, Torrecilla-Salinas, CJ. (2021). *Del aula a la mesa de camilla: desarrollo de juegos científicos. Crear un juego requiere de un proceso arduo y complejo. ¿Te animas a desarrollar uno?* I Feria del Juego Científico, Desgranando Ciencia 7. 13 septiembre, Granada, España.
