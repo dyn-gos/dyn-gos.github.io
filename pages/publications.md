@@ -22,7 +22,7 @@ feature-img: "assets/img/portfolio/sciencesup.png"
 
 * Aznarte-Mellado, C. (2021). *Jugadores de hoy, científicos del mañana*. Desgranando Ciencia 7. 18 septiembre, Granada, España [(*Comunicación Oral*).](https://youtu.be/D9mZnStHLJI){:target="_blank"}
 
-* Navajas-Pérez, R, Nieto-Lugilde, D, Nieto-Lugilde, M, Torrecilla-Salinas, CJ. (2021). *Del aula a la mesa de camilla: desarrollo de juegos científicos”. Crear un juego requiere de un proceso arduo y complejo. ¿Te animas a desarrollar uno*. I Feria del Juego Científico, Desgranando Ciencia 7. 13 septiembre, Granada, España
+* Navajas-Pérez, R, Nieto-Lugilde, D, Torrecilla-Salinas, CJ. (2021). *Del aula a la mesa de camilla: desarrollo de juegos científicos”. Crear un juego requiere de un proceso arduo y complejo. ¿Te animas a desarrollar uno*. I Feria del Juego Científico, Desgranando Ciencia 7. 13 septiembre, Granada, España
 
 * Álvarez-Lloret, P, Aznarte-Mellado, C, Nieto-Lugilde, D, Nieto-Lugilde, M, Torrecilla-Salinas, CJ & Navajas-Pérez, R. (2019). *DyNGoS. Dynamic Network for Gamification of Science*. Education Innovation Working Group Seminar on Students Engagement (Students Engagement in Coimbra Group Universities). 29 marzo, Granada, España [(*Comunicación Oral*).](http://wpd.ugr.es/~rnavajas/wp-content/uploads/2019/03/dyngos_seminar.pdf){:target="_blank"}
  
